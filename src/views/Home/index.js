@@ -27,11 +27,10 @@ const Home = () => {
       <ContentContainer>
         <TitleBox>
           <TitleText>
-            빅데이터 연합동아리 <ColorText>TOBIG'S</ColorText>
+            인공지능&데이터 분석 연합동아리 <ColorText>TOBIG'S</ColorText>
           </TitleText>
         </TitleBox>
         <SubTitleText subcolor>
-          빅데이터를 공부하고 큰 사람이 되기 위한<br/>
           투빅스에서 함께 나아갈 큰 사람을 찾고 있습니다.
         </SubTitleText>
       </ContentContainer>
