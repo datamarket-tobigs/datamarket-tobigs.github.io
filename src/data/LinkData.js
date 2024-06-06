@@ -9,7 +9,7 @@ export const LinkData = [
     src: TobigsIcon,
   },
   {
-    href: "https://subdued-timer-a9b.notion.site/",
+    href: "https://subdued-timer-a9b.notion.site/22-d32677cfcd664d718fd22679f7e7ced0?pvs=4",
     src: NotionIcon,
   },
   {
