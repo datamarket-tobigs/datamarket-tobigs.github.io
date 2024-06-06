@@ -111,7 +111,7 @@ const TitleText = styled.div`
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   `}
-`
+`;
 
 const SubTitleText = styled.div`
   color: #FFFFFF;
@@ -125,7 +125,37 @@ const SubTitleText = styled.div`
   ${(props) => props.subcolor && css`
     color: #CAD5FF;
   `}
-`
+`;
+
+const LinkList = styled.div`
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+  margin-top: 40px;
+`;
+
+const LinkItem = styled.a`
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  padding: 4px;
+  border-radius: 50%;
+  overflow: hidden;
+  background-color: #FFFFFF;
+  &:hover {
+    filter: brightness(0.8);
+  }
+`;
+
+const LinkImage = styled.img`
+  width: 100%;
+  height: 100%;
+`;
 
 export {
   TitleBox,
@@ -135,4 +165,7 @@ export {
   Image,
   TitleText,
   SubTitleText,
+  LinkList,
+  LinkItem,
+  LinkImage,
 };

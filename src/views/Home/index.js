@@ -9,7 +9,11 @@ import {
   Image,
   TitleText,
   SubTitleText,
+  LinkList,
+  LinkItem,
+  LinkImage,
 } from './style';
+import { LinkData } from '../../data/LinkData';
 
 const Home = () => {
   return (
@@ -23,6 +27,13 @@ const Home = () => {
         <TitleText gradient>
           투빅스와 함께 인공지능&데이터 분석을 배워보세요!
         </TitleText>
+        <LinkList>
+          {LinkData.map((link, index) => (
+            <LinkItem key={index} href={link.href} target="_blank">
+              <LinkImage src={link.src} />
+            </LinkItem>
+          ))}
+        </LinkList>
       </ContentContainer>
       <ContentContainer>
         <TitleBox>
