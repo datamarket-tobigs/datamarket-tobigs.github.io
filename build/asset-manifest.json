@@ -1,31 +1,31 @@
 {
   "files": {
     "main.css": "/static/css/main.3280c7d9.css",
-    "main.js": "/static/js/main.1122ce5f.js",
+    "main.js": "/static/js/main.adfa7903.js",
     "static/js/453.5a8ca24c.chunk.js": "/static/js/453.5a8ca24c.chunk.js",
     "static/media/photo1.jpeg": "/static/media/photo1.d89349a8fe0860d14554.jpeg",
     "static/media/photo2.jpeg": "/static/media/photo2.a69b86dca1c048b1280d.jpeg",
     "static/media/photo3.jpeg": "/static/media/photo3.4f78a49b4b10d7436400.jpeg",
     "static/media/tobigs-bear.png": "/static/media/tobigs-bear.ae32ac1e8af7675914c5.png",
-    "static/media/tobigs-icon.svg": "/static/media/tobigs-icon.ba1b736a91f3cbfb479ceac3dfa5cb58.svg",
-    "static/media/scikit-learn-logo.svg": "/static/media/scikit-learn-logo.1d9c2ee5e6a140836e19937a9d941b4d.svg",
-    "static/media/git-logo.svg": "/static/media/git-logo.fa08217fe181f299c13905ff54d8b913.svg",
-    "static/media/tensorflow-logo.svg": "/static/media/tensorflow-logo.d79a5097d58aef4cbf4155fb06a72027.svg",
-    "static/media/pandas-logo.svg": "/static/media/pandas-logo.89236ade72b36f4721173417d2270095.svg",
-    "static/media/instagram-icon.svg": "/static/media/instagram-icon.8d283bb387288f791626f105e1787328.svg",
-    "static/media/github-icon.svg": "/static/media/github-icon.b49ae2708124cd2c0282177d46815de3.svg",
-    "static/media/pytorch-logo.svg": "/static/media/pytorch-logo.e90378c1bd26f71f94c70e6201b5106d.svg",
-    "static/media/numpy-logo.svg": "/static/media/numpy-logo.9fdda9c99182971b5683cf2c33994c00.svg",
-    "static/media/notion-icon.svg": "/static/media/notion-icon.fcbb319cfd6319a03ddeacb937dcb9fe.svg",
+    "static/media/tobigs-icon.svg": "/static/media/tobigs-icon.10712cf39551e916330a93c1f2f991fb.svg",
+    "static/media/scikit-learn-logo.svg": "/static/media/scikit-learn-logo.f71bfa0c19a717879213389a97cc3fb7.svg",
+    "static/media/git-logo.svg": "/static/media/git-logo.157e71e9477c739e72f4b317e6c0bc80.svg",
+    "static/media/tensorflow-logo.svg": "/static/media/tensorflow-logo.893e978e295821e6f283018bddc61908.svg",
+    "static/media/pandas-logo.svg": "/static/media/pandas-logo.ce2a38ee18f5ee6ef24f0813d7e226a5.svg",
+    "static/media/instagram-icon.svg": "/static/media/instagram-icon.7264f8cc89c0d6a8754dbca4c9c13fa3.svg",
+    "static/media/github-icon.svg": "/static/media/github-icon.8326342053afeec477090567da5a666b.svg",
+    "static/media/pytorch-logo.svg": "/static/media/pytorch-logo.0dadc5781303e4cdde4f726c2bfd28cd.svg",
+    "static/media/numpy-logo.svg": "/static/media/numpy-logo.04ecc2257977b21157372fcf7e8116be.svg",
+    "static/media/notion-icon.svg": "/static/media/notion-icon.c7bfd8446ac8e039902d74519a986098.svg",
     "index.html": "/index.html",
-    "static/media/arrow-icon-16.svg": "/static/media/arrow-icon-16.6975b2c07b6a50d30766ca522a17b5dd.svg",
-    "static/media/arrow-icon.svg": "/static/media/arrow-icon.813d7c34391d655abf1101766244f29a.svg",
+    "static/media/arrow-icon-16.svg": "/static/media/arrow-icon-16.126fe7bf577d604ae8f1f93d0a17cde1.svg",
+    "static/media/arrow-icon.svg": "/static/media/arrow-icon.3f210b83880f2e7d4f4839e892079642.svg",
     "main.3280c7d9.css.map": "/static/css/main.3280c7d9.css.map",
-    "main.1122ce5f.js.map": "/static/js/main.1122ce5f.js.map",
+    "main.adfa7903.js.map": "/static/js/main.adfa7903.js.map",
     "453.5a8ca24c.chunk.js.map": "/static/js/453.5a8ca24c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3280c7d9.css",
-    "static/js/main.1122ce5f.js"
+    "static/js/main.adfa7903.js"
   ]
 }
