@@ -45,60 +45,44 @@ export const StackData = [
 export const CurriculumData = [
   {
     step: 'STEP 01',
-    title: 'Data Analytics, Statistics',
+    title: 'Data Science and Machine Learning',
     week: [
       {
         number: 'week1',
-        title: 'EDA, Framework'
+        title: 'Git, EDA, ML Basics'
       },
       {
         number: 'week2',
-        title: 'Optimization, Regression'
+        title: 'Supervised Learning, Unsupervised Learning, Ensemble'
       }
     ]
   },
   {
     step: 'STEP 02',
-    title: 'Machine Learning,\nRegression, Classification',
+    title: 'Deep Learning and Explainable AI',
     week: [
       {
         number: 'week3',
-        title: 'Naive Bayes, Decision Tree, Neural Network Basic'
+        title: 'Deep Learning Basics, Vision, Explainable AI (XAI)'
       },
       {
         number: 'week4',
-        title: 'Ensemble, Dimensionality Reduction'
+        title: 'NLP, Time Series, Recommendation System'
       },
-      {
-        number: 'week5',
-        title: 'KNN, Clustering, SVM, SVR'
-      }
     ]
   },
   {
     step: 'STEP 03',
-    title: 'Deep Learning,\nDNN, NLP, Vision, Gen, etc',
+    title: 'Advanced Deep Learning, etc',
     week: [
       {
+        number: 'week5',
+        title: 'Generative AI, LLM, Speech Processing'
+      },
+      {
         number: 'week6',
-        title: 'Neural Network Advanced, Time Series'
+        title: 'Reinforcement Learning, Multimodal AI, Diverse Learning Paradigms'
       },
-      {
-        number: 'week7',
-        title: 'NLP, Vision Basic'
-      },
-      {
-        number: 'week8',
-        title: 'NLP, Vision Advanced'
-      },
-      {
-        number: 'week9',
-        title: 'Generative, Recommender System Basic'
-      },
-      {
-        number: 'week10',
-        title: 'Generative Advanced, Speech'
-      }
     ]
   }
 ];
