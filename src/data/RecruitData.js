@@ -2,29 +2,29 @@ export const RecruitData = [
   [
     {
       title: '서류 접수',
-      description: '12.12 (목) ~ 12.27 (금)'
+      description: '06.09 (월) ~ 06.24 (화)'
     },
     {
       title: '서류 합격자 발표',
-      description: '12.30 (월)'
+      description: '06.26 (목)'
     },
     {
       title: '면접 심사',
-      description: '01.04 (토)'
+      description: '06.29 (일)'
     },
   ],
   [
     {
       title: '최종 발표',
-      description: '01.06 (월)'
+      description: '07.01 (화)'
     },
     {
       title: '전체 OT',
-      description: '01.11 (토)'
+      description: '07.05 (토)'
     },
     {
       title: '컨퍼런스',
-      description: '01.18 (토)'
+      description: '07.12 (토)'
     }
   ]
 ];

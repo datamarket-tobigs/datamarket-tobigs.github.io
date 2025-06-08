@@ -24,6 +24,8 @@ import { StackData } from '../../data/CurriculumTextData';
 import photo1 from '../../assets/photo1.jpeg';
 import photo2 from '../../assets/photo2.jpeg';
 import photo3 from '../../assets/photo3.jpeg';
+import photo4 from '../../assets/photo4.jpg';
+import photo5 from '../../assets/photo5.png';
 
 const Curriculum = () => {
   return (
@@ -93,6 +95,26 @@ const Curriculum = () => {
             </WrapDescription>
           </TextWrap>
           <ImageWrap src={photo3} />
+        </Wrap>
+        <Wrap reverse>
+          <TextWrap reverse>
+            <WrapTitleText> 데이터톤 🔥 </WrapTitleText>
+            <WrapDescription reverse>
+              Upstage, 위즈코어와 함께한<br />
+              AI 동아리 연합 데이터톤
+            </WrapDescription>
+          </TextWrap>
+          <ImageWrap src={photo4} />
+        </Wrap>
+        <Wrap>
+          <TextWrap>
+            <WrapTitleText> 기타활동 🧑‍🤝‍🧑 </WrapTitleText>
+            <WrapDescription>
+              미국 대사관 강연 참석, 다양한 AI 포럼 참여
+              (SK AI SUMMIT 2024, 이데일리 AI 포럼 등)
+            </WrapDescription>
+          </TextWrap>
+          <ImageWrap src={photo5} />
         </Wrap>
       </ContentContainer>
       <ContentContainer>

@@ -48,12 +48,12 @@ export const CurriculumData = [
     title: 'Data Science and Machine Learning',
     week: [
       {
-        number: 'week1',
-        title: 'Git, EDA, ML Basics'
+        number: 'Week1',
+        title: 'Git, EDA, Machine Learning Basics'
       },
       {
-        number: 'week2',
-        title: 'Supervised Learning, Unsupervised Learning, Ensemble'
+        number: 'Week2',
+        title: 'Advanced Machine Learning, Ensemble'
       }
     ]
   },
@@ -62,26 +62,26 @@ export const CurriculumData = [
     title: 'Deep Learning and Explainable AI',
     week: [
       {
-        number: 'week3',
+        number: 'Week3',
         title: 'Deep Learning Basics, Vision, Explainable AI (XAI)'
       },
       {
-        number: 'week4',
+        number: 'Week4',
         title: 'NLP, Time Series, Recommendation System'
       },
     ]
   },
   {
     step: 'STEP 03',
-    title: 'Advanced Deep Learning, etc',
+    title: 'Advanced Deep Learning, Application, etc',
     week: [
       {
-        number: 'week5',
-        title: 'Generative AI, LLM, Speech Processing'
+        number: 'Week5',
+        title: 'Generative AI, LLM, Diverse Learning Paradigms'
       },
       {
-        number: 'week6',
-        title: 'Reinforcement Learning, Multimodal AI, Diverse Learning Paradigms'
+        number: 'Week6',
+        title: 'Reinforcement Learning, Multimodal AI, MLOps & Database'
       },
     ]
   }

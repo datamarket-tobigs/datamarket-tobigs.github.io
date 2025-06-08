@@ -1,10 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.3280c7d9.css",
-    "main.js": "/static/js/main.adfa7903.js",
+    "main.js": "/static/js/main.dee5d924.js",
     "static/js/453.5a8ca24c.chunk.js": "/static/js/453.5a8ca24c.chunk.js",
     "static/media/photo1.jpeg": "/static/media/photo1.d89349a8fe0860d14554.jpeg",
+    "static/media/photo4.jpg": "/static/media/photo4.24a7914358cc1e99af6f.jpg",
     "static/media/photo2.jpeg": "/static/media/photo2.a69b86dca1c048b1280d.jpeg",
+    "static/media/photo5.png": "/static/media/photo5.b12e0650420df47e1702.png",
     "static/media/photo3.jpeg": "/static/media/photo3.4f78a49b4b10d7436400.jpeg",
     "static/media/tobigs-bear.png": "/static/media/tobigs-bear.ae32ac1e8af7675914c5.png",
     "static/media/tobigs-icon.svg": "/static/media/tobigs-icon.10712cf39551e916330a93c1f2f991fb.svg",
@@ -21,11 +23,11 @@
     "static/media/arrow-icon-16.svg": "/static/media/arrow-icon-16.126fe7bf577d604ae8f1f93d0a17cde1.svg",
     "static/media/arrow-icon.svg": "/static/media/arrow-icon.3f210b83880f2e7d4f4839e892079642.svg",
     "main.3280c7d9.css.map": "/static/css/main.3280c7d9.css.map",
-    "main.adfa7903.js.map": "/static/js/main.adfa7903.js.map",
+    "main.dee5d924.js.map": "/static/js/main.dee5d924.js.map",
     "453.5a8ca24c.chunk.js.map": "/static/js/453.5a8ca24c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3280c7d9.css",
-    "static/js/main.adfa7903.js"
+    "static/js/main.dee5d924.js"
   ]
 }

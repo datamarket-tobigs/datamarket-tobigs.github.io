@@ -23,7 +23,7 @@ const Recruit = () => {
   window.addEventListener('scroll', handleScroll);
 
   const openLink = () => {
-    window.open('https://forms.gle/Toqc3jxz1ged8hPG9', '_blank');
+    window.open('https://forms.gle/fzwkEj6AWYktEH5z5', '_blank');
   }
 
   return (
@@ -43,7 +43,7 @@ const Recruit = () => {
           fontWeight="bold"
           animation={true}
         />
-        <SubTitleText>2024년 12월 12일 ~ 2024년 12월 27일</SubTitleText>
+        <SubTitleText>2025년 06월 09일 ~ 2025년 06월 24일</SubTitleText>
         <RecruitList />
       </ContentContainer>
       <ContentContainer background={true}>
