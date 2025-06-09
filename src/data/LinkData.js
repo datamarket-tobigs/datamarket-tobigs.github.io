@@ -9,7 +9,7 @@ export const LinkData = [
     src: TobigsIcon,
   },
   {
-    href: "https://fancy-sea-1dd.notion.site/ToBig-s-23-2fb16e7c84e9454496a9bb49102f5fcb?pvs=4",
+    href: "https://mysterious-antimony-d85.notion.site/ToBig-s-24-20940685c34880caaf71e81337d8bcc1",
     src: NotionIcon,
   },
   {
